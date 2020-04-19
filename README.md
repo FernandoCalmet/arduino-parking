@@ -288,3 +288,8 @@ void loop() {
 Finalmente compilamos y grabamos el código en nuestro arduino para hacer la prueba final del funcionamiento de los Leds utilizando mi voz. El cual responderá ante las palabras: Verde, Amarillo o Rojo. Las cuales se encenderá por 5 segundos y luego se apagaran, y con eso se comprobará que los Leds están en correcto funcionamiento. De otra manera también podemos utilizar nuestro sensor el cual nos devolverá los encendidos según los umbrales de distancia acompañado de tres distintas frecuencias de tonos.  
 ![resultado final](img/Screenshot_25.png?raw=true)
 ![resultado final](img/Screenshot_26.png?raw=true)
+
+## BUY ME A COFFEE :-)
+<a href='https://ko-fi.com/fernandocalmet' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
